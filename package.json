@@ -1,0 +1,16 @@
+{
+  "name": "pen-loader",
+  "version": "1.0.0",
+  "description": "它是一个 webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babylon": "^6.18.0",
+    "stupid-treeshaking-js": "1.0.0",
+    "babel-traverse": "latest"
+  }
+}
